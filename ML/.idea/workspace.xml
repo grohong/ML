@@ -67,20 +67,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="logistic_classification.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="logistic_classification.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lab05/logistic_classification.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="403">
-              <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+            <state relative-caret-position="165">
+              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="60" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="load_data_logistic_classification.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="load_data_logistic_classification.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lab05/load_data_logistic_classification.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="93">
+            <state relative-caret-position="23">
               <caret line="7" column="19" lean-forward="false" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
               <folding>
                 <element signature="e#0#17#0" expanded="true" />
@@ -878,21 +878,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lab05/logistic_classification.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="403">
-          <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lab05/load_data_logistic_classification.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="93">
+        <state relative-caret-position="23">
           <caret line="7" column="19" lean-forward="false" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
           <folding>
             <element signature="e#0#17#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab05/logistic_classification.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="60" />
+          <folding />
         </state>
       </provider>
     </entry>
